@@ -5,6 +5,7 @@
 
 #include "Arduino.h"
 
+// This library takes care of note detection and activation
 class PowerNote
 {
 	public:
